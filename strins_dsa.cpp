@@ -152,7 +152,7 @@ void compare_duplicate(char A[])
     cout<<"\n";
 }
 
-void duplicate_hsah(char A[])
+void duplicate_hash(char A[])
 {
     int H[26]={0};
     for(int i = 0; A[i]!='\0'; i++)
